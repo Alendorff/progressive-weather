@@ -1,0 +1,14 @@
+{
+  "name": "progressive-weather",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alendorff/progressive-weather.git",
+  "author": "Maxim Nesterenko <alendorff@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "spa-serve ."
+  },
+  "devDependencies": {
+    "spa-serve": "^1.0.10"
+  }
+}
